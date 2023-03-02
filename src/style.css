@@ -1,0 +1,116 @@
+.serial {
+  width: 20px;
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+.max {
+  width: 20px;
+  font-size: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+  padding-top: 30px;
+}
+
+.basicButton {
+  background-color: #b4e6f6;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 10px;
+  width: auto;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.focusedButton {
+  background-color: #053b4e;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 10px;
+  width: auto;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-family: "Trocchi", serif;
+  font-size: 45px;
+  font-weight: normal;
+  line-height: 48px;
+  margin: 0;
+  font-weight: bold;
+  background-color: #b4e6f6;
+}
+
+h2 {
+  color: white;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 32px;
+  margin: 20px 20px 20px;
+}
+
+h3 {
+  margin-left: 70px;
+  color: black;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 32px;
+  font-weight: bold;
+}
+
+body {
+  background-color: lightgray;
+}
+
+.aspect {
+  padding: 10px;
+  margin: 10px;
+}
+
+.aspectText {
+  margin: 10px;
+}
+
+.aspectDescription {
+  margin-right: 30px;
+}
+
+.error {
+  color: red;
+  font-size: large;
+  font-weight: bold;
+}
+
+.task {
+  background-color: white;
+  width: auto;
+}
+
+.scoreP {
+  font-size: large;
+  font-weight: bold;
+  font-family: "Source Sans Pro", sans-serif;
+}
